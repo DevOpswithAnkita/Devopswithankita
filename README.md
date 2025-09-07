@@ -17,7 +17,7 @@ I'm a **DevOps Engineer** based in 🇮🇳 India, with over **6 years** of expe
 
 ## **Tech Stack**
 
-### **Languages & Frameworks**
+### **Languages**
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
