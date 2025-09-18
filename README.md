@@ -79,7 +79,7 @@ I'm a **DevOps Engineer** based in 🇮🇳 India, with over **5 years** of expe
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankita8870/)
-[![Email](https://img.shields.io/badge/Email-devopsdive17@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devopsdive17@gmail.com)
+[![Email](https://img.shields.io/badge/Email-devopsdive17@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devopsdive17@gmail.com)[![Email](https://img.shields.io/badge/Email-ankitachandel11@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitachandel11@gmail.com)
 
 </div>
 
