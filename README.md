@@ -86,11 +86,15 @@ I'm a **DevOps Engineer** based in 🇮🇳 India, with over **5 years** of expe
 ---
 
 ### **Cloud & DevOps Expertise**
-
-- **Cloud:** AWS, Azure
-- **CI/CD Tools:** Jenkins, GitHub Actions
-- **Containers & Orchestration:** Docker, Kubernetes, Docker Swarm
-- **Infrastructure as Code:** Terraform, Ansible
-- **Security & Vulnerability Scanning:** Trivy, ArgoCD
-- **Monitoring:** Zabbix, Prometheus, Grafana, CloudWatch
-- **Databases:** MySQL, MariaDB, PostgreSQL, MongoDB, Solr, Elasticsearch
+- **Cloud Platforms:** AWS, Azure, E2E Cloud, Hetzner
+- **DevOps:**  Terraform, Ansible, Jenkins, GitHub Actions, Gitlab, Git, GitHub
+- **Containerization & Orchestration:**  Docker, Kubernetes, ECS, EKS
+- **Monitoring & Observability:**  Prometheus, Grafana, CloudWatch, ELK Stack, Zabbix
+- **Database & Caching:**  AWS RDS, MongoDB, Redis, PostgreSQL, MySQL, DynamoDB
+- **Messaging & Task Queues:**  RabbitMQ, Celery, and AWS SQS
+- **Backup:** Veeam, boto3, AWS CLI
+- **Operating System:**  Ubuntu, CentOS, RHEL, Rocky
+- **Project Management:**  Jira, Phabricator
+- **Machine learning:** Sagemaker, Notebook, EventBridge, Azure Machine Learning
+- **Programming:**  Python, Shell Scripting, YAML, JSON
+- **Networking:** Site-to-Site VPN, OpenVPN, VPC Peering, VPC
