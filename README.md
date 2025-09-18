@@ -10,7 +10,7 @@
 
 ## About Me
 
-I'm a **DevOps Engineer** based in 🇮🇳 India, with over **6 years** of experience working in onsite environments. I specialize in **automating deployment processes** and designing **scalable, cloud-based infrastructure** to improve efficiency and reliability.
+I'm a **DevOps Engineer** based in 🇮🇳 India, with over **5 years** of experience working in onsite environments. I specialize in **automating deployment processes** and designing **scalable, cloud-based infrastructure** to improve efficiency and reliability.
 
 * Continuously exploring **new technologies** and staying updated with **industry best practices**
 * Open to collaborating on **open-source projects** and **DevOps-related initiatives**
