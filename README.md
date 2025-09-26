@@ -2,7 +2,7 @@
 
 # Welcome to DevOps Playground
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=I+am+a+DevOps+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=DevOps+Engineer)](https://git.io/typing-svg)
 
 </div>
 
